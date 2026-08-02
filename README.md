@@ -16,4 +16,12 @@ Startrails
 <br>
 Sun
 <br>
-[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/Zacmienie-2022__2022-10-25-015.JPG?raw=true"/>](https://github.com/jpatka/Jacek-Patka/blob/main/Zacmienie-2022__2022-10-25-015.JPG?raw=true?raw=true)
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/Zacmienie-2022__2022-10-25-015.JPG"/>](https://github.com/jpatka/Jacek-Patka/blob/main/Zacmienie-2022__2022-10-25-015.JPG?raw=true)
+<br>
+Stars
+<br>
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/image-20250702011045.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/image-20250702011045.jpg?raw=true)
+<br>
+He built his own roll-off astronomical observatory on his own.
+<br>
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/zoa_skapane_w_zieleni_1.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/zoa_skapane_w_zieleni_1.jpg?raw=true)
