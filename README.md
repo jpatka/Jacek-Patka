@@ -25,3 +25,8 @@ Stars
 He built his own roll-off astronomical observatory on his own.
 <br>
 [<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/zoa_skapane_w_zieleni_1.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/zoa_skapane_w_zieleni_1.jpg?raw=true)
+<br>
+<br>
+PL [My Website](https://astronomia.zagan.pl)
+<br>
+<br>
