@@ -1,39 +1,53 @@
-md_content = """# Cześć, jestem Jacek Patka! 👋
+# Hi there, I'm Jacek Patka! 👋
 
-Programista Python z pasją do astronomii, obróbki grafiki oraz wizualizacji danych naukowych.
-
----
-
-### 🚀 O mnie
-* 🐍 **Główny stos technologiczny:** Python (środowisko PyCharm)
-* 🌌 **Zainteresowania naukowe:** Astronomia, nauki o kosmosie, zjawiska solarne oraz supernowe
-* 🎨 **Grafika i multimedia:** Cyfrowa obróbka obrazu, wektoryzacja oraz edycja graficzna
-* 📍 **Lokalizacja:** Żagań, Polska
+Software Developer focused on Python, space science data, and digital image processing.
 
 ---
 
-### 🔭 Aktualne projekty
-* **Wizualizacja zaćmień słońca:** Tworzenie skryptów w Pythonie do dokładnego obliczania oraz mapowania trajektorii i szerokości cienia zaćmień słonecznych.
-* **Przetwarzanie danych astronomicznych:** Narzędzia do analizy i wizualizacji danych kosmicznych.
+### 🚀 About Me
+* 🐍 **Primary Tech Stack:** Python (PyCharm IDE)
+* 🌌 **Scientific Interests:** Astronomy, space science, solar eclipses, and supernovae discoveries
+* 🎨 **Graphics & Multimedia:** Vectorization, digital image editing, and color modification
+* 📍 **Location:** Żagań, Poland
 
 ---
 
-### 🛠️ Technologie i narzędzia
-| Kategoria | Technologie / Narzędzia |
+### 🔭 Current Projects
+* **Solar Eclipse Shadow Path Visualizer:** Developing Python scripts to accurately calculate and map eclipse shadow trajectories and path widths.
+* **Astronomical Data Analysis:** Tools for processing, analyzing, and visualizing astrophysics datasets.
+
+---
+
+### 🛠️ Tech & Tools
+| Category | Technologies / Tools |
 | :--- | :--- |
-| **Języki programowania** | Python |
-| **IDE & Narzędzia** | PyCharm, Git |
-| **Specjalizacja** | Data Visualization, Image Processing, Astronomy & Space Science Data |
+| **Languages** | Python |
+| **IDE & Tools** | PyCharm, Git |
+| **Domains** | Data Visualization, Image Processing, Astronomy & Space Science Data |
 
 ---
 
-### 📬 Kontakt i profile
+### 📬 Connect with Me
 * **GitHub:** [@JacekPatka](https://github.com/)
-* **Email:** *twój.email@example.com*
-"""
+* **Email:** *jpatka@wp.pl*
+* **My WWW:** [Star Gate](https://astronomia.zagan.pl)
 
-filename = "README.md"
-with open(filename, "w", encoding="utf-8") as f:
-    f.write(md_content)
-
-print(f"File saved successfully as {filename}")
+In my life, next to IT, astronomy and photography reign supreme.
+<br>
+Startrails
+<br>
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/FB_IMG_1751440930689.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/FB_IMG_1751440930689.jpg?raw=true)
+<br>
+Sun
+<br>
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/Zacmienie-2022__2022-10-25-015.JPG"/>](https://github.com/jpatka/Jacek-Patka/blob/main/Zacmienie-2022__2022-10-25-015.JPG?raw=true)
+<br>
+Stars
+<br>
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/image-20250702011045.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/image-20250702011045.jpg?raw=true)
+<br>
+He built his own roll-off astronomical observatory on his own.
+<br>
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/zoa_skapane_w_zieleni_1.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/zoa_skapane_w_zieleni_1.jpg?raw=true)
+<br>
+<br>
