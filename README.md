@@ -2,6 +2,8 @@
 
 Software Developer focused on Python, space science data, and digital image processing.
 
+[<img alt="astrofoto" width="300px" src="https://github.com/jpatka/Jacek-Patka/blob/main/1000012795.jpg"/>](https://github.com/jpatka/Jacek-Patka/blob/main/1000012795.jpg?raw=true)
+
 ---
 
 ### 🚀 About Me
